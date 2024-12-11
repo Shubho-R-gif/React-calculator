@@ -24,7 +24,7 @@ A lightweight, user-friendly calculator built using React. This calculator inclu
 ## Screenshots
 
 ## **Main Interface**
-![Main Interface](Calculator.jpeg)
+![Main Interface](image-calc.jpeg)
 
 ---
 
