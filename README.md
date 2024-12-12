@@ -4,10 +4,10 @@ A lightweight, user-friendly calculator built using React. This calculator inclu
 
 ## ✨ Features
 
--- Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
--- Intuitive and clean user interface.
--- Responsive design for desktop and mobile use.
--- Built using React for efficient and fast rendering.
+- **Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
+- **Intuitive and clean user interface.
+- **Responsive design for desktop and mobile use.
+- **Built using React for efficient and fast rendering.
 
 ## Usage
 
@@ -17,9 +17,9 @@ A lightweight, user-friendly calculator built using React. This calculator inclu
 
 ## 🛠️ Built With  
 
--- React: For building the user interface.
--- CSS: For styling the calculator.
--- Vite: For faster development and bundling.
+- **React: For building the user interface.
+- **CSS: For styling the calculator.
+- **Vite: For faster development and bundling.
 
 ## Screenshots
 
